@@ -1,8 +1,8 @@
 # Hi guys, I'm Thomas 👋
 
-Third-year Electrical Engineering student at UCLA, focused on **computer architecture**, **VLSI design**, **embedded systems**, and **communication systems**. Most of my work focuses on designing and verifying RTL and FPGA-based systems, particularly processors, hardware accelerators, and digital signal-processing systems.
+Electrical Engineering Student @ UCLA · Computer Architecture · VLSI Design · Embedded Systems · Communication Systems
 
-I enjoy working across the hardware development process—from architecture and RTL implementation to simulation, debugging, benchmarking, and FPGA deployment.
+Third-year Electrical Engineering student interested in building efficient digital hardware systems. I enjoy working across the full development process, from RTL design and verification to FPGA implementation and performance analysis. My projects usually start with a question about how a system should perform, and end with hardware that proves it — designed top-down, pushed to its limits, and benchmarked until the numbers back it up.
 
 🎓 UCLA, B.S. Electrical Engineering 
 
@@ -12,11 +12,10 @@ I enjoy working across the hardware development process—from architecture and 
 
 ## 🛠️ Tools
 
-**Languages**
-`SystemVerilog` `C/C++` `Python` `Tcl` `Assembly` `Bash/Shell`
-
-**Technologies**
-`Synopsys Verdi/VCS` `Xilinx Vivado` `MATLAB` `LTspice` `Git` `Artix-7` `ESP32`
+| | |
+|---|---|
+| **Languages** | SystemVerilog · C/C++ · Python · Tcl · Assembly · Bash/Shell |
+| **Technologies** | Synopsys Verdi/VCS · Xilinx Vivado · MATLAB · LTspice · Git · Artix-7 · ESP32 |
 
 ---
 
@@ -35,7 +34,7 @@ A five-stage pipelined RV32 processor implemented in SystemVerilog, featuring ha
 An FPGA-based reaction-time game that measures how quickly a player responds to a visual stimulus. The design uses finite-state machines, counters, button debouncing, and display-control logic to manage the gameplay sequence and report the player's reaction time.
 
 ### [Maze Solving Car](https://github.com/ToeMatLe/ECE3-Autonomous-Car)
-An autonomous embedded system that uses onboard sensors, motor control, and closed-loop feedback to navigate a maze. I worked on sensor calibration, control tuning, and debugging the embedded navigation software. The car completed the maze in 5.6 seconds, achieving the fastest time in a class of 196 students.
+Final project for UCLA ECE 3: a fully autonomous line-following robot built using IR sensors, motor encoders, PID control, and a multi-stage state machine. The robot detects checkpoints, executes a 225° turn, accelerates through a timed section, and stops using encoder feedback. After tuning for speed and stability, it completed the course in 5.6 seconds, the fastest time among 196 students.
 
 ---
 
