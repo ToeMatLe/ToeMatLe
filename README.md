@@ -6,7 +6,7 @@ Hi I'm a third-year Electrical Engineering student interested in building effici
 
 My projects usually start with a question about how a system should perform, and end with hardware that proves it — designed top-down, pushed to its limits, and benchmarked until the numbers back it up.
 
-🎓 UCLA, B.S. Electrical Engineering (Expected December 2027)
+🎓 ***UCLA, B.S. Electrical Engineering*** (*Expected December 2027*)
 
 🔬 Currently exploring ASIC/RTL design, digital verification, FPGA deployment, and hardware acceleration
 
