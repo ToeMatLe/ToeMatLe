@@ -6,7 +6,6 @@ I enjoy working across the hardware development process—from architecture and 
 
 🎓 UCLA, B.S. Electrical Engineering 
 🔬 Currently exploring ASIC/RTL design, digital verification, and hardware acceleration
-🔗 [LinkedIn](https://www.linkedin.com/in/thomas-1e/)
 
 ---
 
