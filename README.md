@@ -1,6 +1,6 @@
 # Hi guys, I'm Thomas 👋
 
-### **Electrical Engineering Student @ UCLA** · Computer Architecture · VLSI Design · Embedded Systems · Communication Systems
+**Electrical Engineering Student @ UCLA** · Computer Architecture · VLSI Design · Embedded Systems · Communication Systems
 
 Third-year Electrical Engineering student interested in building efficient digital hardware systems. I enjoy working across the full development process, from RTL design and verification to FPGA implementation and performance analysis.
 
@@ -8,8 +8,6 @@ My projects usually start with a question about how a system should perform, and
 
 🎓 UCLA, B.S. Electrical Engineering
 🔬 Currently exploring ASIC/RTL design, digital verification, and hardware acceleration
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-1e/)
 
 </div>
 
