@@ -2,12 +2,12 @@
 
 **Electrical Engineering Student @ UCLA** · Computer Architecture · VLSI Design · Embedded Systems · Communication Systems
 
-Third-year Electrical Engineering student interested in building efficient digital hardware systems. I enjoy working across the full development process, from RTL design and verification to FPGA implementation and performance analysis.
+Hi I'm a third-year Electrical Engineering student interested in building efficient digital hardware systems. I enjoy working across the full development process, from RTL design and verification to FPGA implementation and performance analysis.
 
 My projects usually start with a question about how a system should perform, and end with hardware that proves it — designed top-down, pushed to its limits, and benchmarked until the numbers back it up.
 
 🎓 UCLA, B.S. Electrical Engineering
-🔬 Currently exploring ASIC/RTL design, digital verification, and hardware acceleration
+🔬 Currently exploring ASIC/RTL design, digital verification, FPGA deployment, and hardware acceleration
 
 </div>
 
