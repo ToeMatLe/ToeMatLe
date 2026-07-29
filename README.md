@@ -36,11 +36,14 @@ An FPGA-based reaction-time game that measures how quickly a player responds to 
 
 ### [Maze Solving Car](https://github.com/ToeMatLe/ECE3-Autonomous-Car)
 An autonomous embedded system that uses onboard sensors, motor control, and closed-loop feedback to navigate a maze. I worked on sensor calibration, control tuning, and debugging the embedded navigation software. The car completed the maze in 5.6 seconds, achieving the fastest time in a class of 196 students.
+
 ---
 
 ## 🎓 UCLA Tapeout Club
 
-I'm a member of the [UCLA Tapeout Club](https://github.com/UCLA-Tapeout-Club), a student organization dedicated to giving members hands-on experience with the full digital chip design flow — from RTL design through synthesis and physical design — with the goal of taping out a real RISC-V based chip. Through the club, I contribute to the development and verification of a RISC-V-based chip while learning about RTL design, simulation, synthesis, timing analysis, physical design, and the practical challenges involved in preparing a design for tapeout.
+I'm a member of the [UCLA Tapeout Club](https://github.com/UCLA-Tapeout-Club), a student organization dedicated to giving members hands-on experience with the full digital chip design flow — from RTL design through synthesis and physical design — with the goal of taping out a real RISC-V based chip. 
+
+Through the club, I contribute to the development and verification of a RISC-V-based chip while learning about RTL design, simulation, synthesis, timing analysis, physical design, and the practical challenges involved in preparing a design for tapeout.
 
 ---
 
