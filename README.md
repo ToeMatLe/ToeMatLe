@@ -5,6 +5,7 @@ Third-year Electrical Engineering student at UCLA, focused on **computer archite
 I enjoy working across the hardware development process—from architecture and RTL implementation to simulation, debugging, benchmarking, and FPGA deployment.
 
 🎓 UCLA, B.S. Electrical Engineering 
+
 🔬 Currently exploring ASIC/RTL design, digital verification, and hardware acceleration
 
 ---
