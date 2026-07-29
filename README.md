@@ -15,10 +15,16 @@ My projects usually start with a question about how a system should perform, and
 
 ### 🛠️ Tools
 
-| | |
-|---|---|
-| **Languages** | SystemVerilog · C/C++ · Python · Tcl · Assembly · Bash/Shell |
-| **Technologies** | Synopsys Verdi/VCS · Xilinx Vivado · MATLAB · LTspice · Git · Artix-7 · ESP32 |
+<table>
+  <tr>
+    <td><strong>Languages</strong></td>
+    <td>SystemVerilog · C/C++ · Python · Tcl · Assembly · Bash/Shell</td>
+  </tr>
+  <tr>
+    <td><strong>Technologies</strong></td>
+    <td>Synopsys Verdi/VCS · Xilinx Vivado · MATLAB · LTspice · Git · Artix-7 · ESP32</td>
+  </tr>
+</table>
 
 ---
 
