@@ -15,7 +15,6 @@ My projects usually start with a question about how a system should perform, and
 
 ### 🛠️ Tools
 
-| Category | Details |
 |---|---|
 | **Languages** | SystemVerilog · C/C++ · Python · Tcl · Assembly · Bash/Shell |
 | **Technologies** | Synopsys Verdi/VCS · Xilinx Vivado · MATLAB · LTspice · Git · Artix-7 · ESP32 |
