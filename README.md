@@ -21,7 +21,7 @@ Hi I'm a third-year Electrical Engineering student interested in building effici
   </tr>
   <tr>
     <td><strong>Technologies</strong></td>
-    <td>Synopsys Verdi/VCS · Xilinx Vivado · MATLAB · LTspice · Git · Artix-7 · ESP32</td>
+    <td>Synopsys Verdi/VCS · Xilinx Vivado · STM32 · MATLAB · LTspice · Git · Artix-7 · ESP32</td>
   </tr>
 </table>
 
