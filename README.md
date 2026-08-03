@@ -46,6 +46,9 @@ An FPGA-based reaction-time game that measures how quickly a player responds to 
 ### [Maze Solving Car](https://github.com/ToeMatLe/ECE3-Autonomous-Car)
 Final project for UCLA ECE 3: a fully autonomous line-following robot built using IR sensors, motor encoders, PID control, and a multi-stage state machine. The robot detects checkpoints, executes a 225° turn, accelerates through a timed section, and stops using encoder feedback. After tuning for speed and stability, it completed the course in 5.6 seconds, the fastest time among 196 students.
 
+### [Music Box](https://github.com/ToeMatLe/MusicBox)
+An Arduino-based music player that uses three breadboard push buttons to select between arrangements of Howl’s Moving Castle, Into the Thick of It, and a sequence of fast musical scales. The melodies are generated through a passive buzzer, while a tri-color LED changes in synchronization with the notes to provide a coordinated visual display. The project won the OPS iPoudino Competition 2025.
+
 ---
 
 ## 🎓 UCLA Tapeout Club
