@@ -1,6 +1,6 @@
 # Hi guys, I'm Thomas 👋
 
-**Electrical Engineering Student @ UCLA** · Computer Architecture · ASIC Design · Embedded Systems · Communication Systems
+**Electrical Engineering Student @ UCLA** · ASIC Design · Embedded Systems · Computer Architecture · Communication Systems
 
 Hi I'm a third-year Electrical Engineering student interested in building efficient digital hardware systems. My projects usually start with a question about how a system should perform, and end with hardware that proves it — designed top-down, pushed to its limits, and benchmarked until the numbers back it up.
 
