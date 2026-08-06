@@ -1,10 +1,14 @@
+<div align="center">
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:89CFF0,100:5DADE2&height=200&section=header&text=Hi%20guys,%20I'm%20Thomas%20%F0%9F%91%8B&fontSize=45&fontColor=ffffff&desc=Electrical%20Engineering%20Student%20%40%20UCLA%20%C2%B7%20ASIC%20Design%20%C2%B7%20Embedded%20Systems&descSize=16&descAlignY=75&animation=fadeIn)
+
 # Hi guys, I'm Thomas 👋
 
 **Electrical Engineering Student @ UCLA** · ASIC Design · Embedded Systems · Computer Architecture · Communication Systems
 
 Hi I'm a third-year Electrical Engineering student interested in building efficient digital hardware systems. My projects usually start with a question about how a system should perform, and end with hardware that proves it — designed top-down, pushed to its limits, and benchmarked until the numbers back it up.
 
-🎓 ***UCLA, B.S. Electrical Engineering*** (*Expected December 2027*)
+🎓 ***UCLA, B.S. Electrical Engineering*** (*Expected March 2028*)
 
 🔬 Currently exploring ASIC design, FPGA deployment, Embedded Systems, digital verification, and hardware acceleration
 
@@ -68,4 +72,5 @@ I'm currently looking for FPGA / Embedded Systems / ASIC internship opportunitie
 **LinkedIn:** [linkedin.com/in/thomas-1e](https://www.linkedin.com/in/thomas-1e/)  
 **Email:** [tomle12@ucla.edu](mailto:tomle12@ucla.edu)
 
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:89CFF0,100:5DADE2&height=120&section=footer)
 
