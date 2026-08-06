@@ -51,13 +51,16 @@ An Arduino-based music player that uses three breadboard push buttons to select 
 
 ## 🎓 UCLA Tapeout Club
 
-I'm a member of the [UCLA Tapeout Club](https://github.com/UCLA-Tapeout-Club), a student organization dedicated to giving members hands-on experience with the full digital chip design flow — from RTL design through synthesis and physical design — with the goal of taping out a real RISC-V based chip. 
+I'm a member of the [UCLA Tapeout Club](https://github.com/UCLA-Tapeout-Club), a student organization dedicated to giving members hands-on experience with the complete digital chip design flow. Our team successfully taped out a custom RISC-V-based chip after working through RTL design, verification, and physical design.
 
-Through the club, I contribute to the development and verification of a RISC-V-based chip while learning about RTL design, simulation, synthesis, timing analysis, physical design, and the practical challenges involved in preparing a design for tapeout.
+We are now developing a sparse systolic-array multiplier designed to accelerate matrix operations. Through the club, I contribute to the design and verification process while gaining practical experience with ASIC development, industry-standard EDA tools, and the challenges involved in preparing a design for tapeout.
 
 ---
 
 ## 📫 Connect
 I'm always open to connecting with other students, engineers, and researchers interested in computer architecture, VLSI, FPGA design, embedded systems, or communication systems. Feel free to reach out to talk about projects, research, collaboration opportunities, or anything hardware-related.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-1e/)
+I'm currently looking for FPGA / Embedded Systems / ASIC internship opportunities. Feel free to reach out! I'm always interested in talking about cool hardware projects, research, and new ideas.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-1e/) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tomle12@ucla.edu)
