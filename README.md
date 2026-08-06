@@ -39,7 +39,7 @@ Hi I'm a third-year Electrical Engineering student interested in building effici
 
 ---
 
-## 💻 ASIC/FPGA Projects
+### 💻 ASIC/FPGA Projects
 
 #### [AI Hardware Accelerator](https://github.com/ToeMatLe/AI_Accelerator)
 A TPU-inspired hardware accelerator built around a parameterized systolic array for matrix multiplication. The design uses parallel multiply-accumulate processing elements and supports BF16-compatible arithmetic and ReLU activation, allowing it to model key operations used in neural-network inference.
@@ -53,20 +53,20 @@ A five-stage pipelined RV32 processor implemented in SystemVerilog, featuring ha
 #### [Reaction Game](https://github.com/ToeMatLe/Reaction_Game)
 An FPGA-based reaction-time game that measures how quickly a player responds to a visual stimulus. The design uses finite-state machines, counters, button debouncing, and display-control logic to manage the gameplay sequence and report the player's reaction time.
 
-## ⚙️ Embedded Systems Projects
+### ⚙️ Embedded Systems Projects
 
-### [Embedded RF Monitor](https://github.com/ToeMatLe/RF_Monitor)
+#### [Embedded RF Monitor](https://github.com/ToeMatLe/RF_Monitor)
 An STM32-based RF monitor that scans the 902–928 MHz ISM band using timer-driven CC1101 control and SPI-based RSSI acquisition. The system streams measurements over UART for real-time host logging and is being extended with on-device RF event classification for standalone edge inference.
 
-### [Maze Solving Car](https://github.com/ToeMatLe/ECE3-Autonomous-Car)
+#### [Maze Solving Car](https://github.com/ToeMatLe/ECE3-Autonomous-Car)
 Final project for UCLA ECE 3: a fully autonomous line-following robot built using IR sensors, motor encoders, PID control, and a multi-stage state machine. The robot detects checkpoints, executes a 225° turn, accelerates through a timed section, and stops using encoder feedback. After tuning for speed and stability, it completed the course in 5.6 seconds, the fastest time among 196 students.
 
-### [Music Box](https://github.com/ToeMatLe/MusicBox)
+#### [Music Box](https://github.com/ToeMatLe/MusicBox)
 An Arduino-based music player that uses three breadboard push buttons to select between arrangements of Howl’s Moving Castle, Into the Thick of It, and a sequence of fast musical scales. The melodies are generated through a passive buzzer, while a tri-color LED changes in synchronization with the notes to provide a coordinated visual display. The project won the OPS iPoudino Competition 2025.
 
 ---
 
-## 🎓 UCLA Tapeout Club
+### 🎓 UCLA Tapeout Club
 
 I'm a member of the [UCLA Tapeout Club](https://github.com/UCLA-Tapeout-Club), a student organization dedicated to giving members hands-on experience with the complete digital chip design flow. Our team successfully taped out a custom RISC-V-based chip after working through RTL design, verification, and physical design.
 
@@ -74,7 +74,7 @@ We are now developing a sparse systolic-array multiplier designed to accelerate 
 
 ---
 
-## 📫 Connect
+### 📫 Connect
 I'm currently looking for FPGA / Embedded Systems / ASIC internship opportunities. Feel free to reach out! I'm always interested in talking about cool hardware projects, research, and new ideas.
 
 **LinkedIn:** [linkedin.com/in/thomas-1e](https://www.linkedin.com/in/thomas-1e/)  
