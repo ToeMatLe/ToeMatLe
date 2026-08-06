@@ -14,9 +14,6 @@ Hi I'm a third-year Electrical Engineering student interested in building effici
 
 🔬 Currently exploring ASIC design, FPGA deployment, Embedded Systems, digital verification, and hardware acceleration
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-1e/) 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tomle12@ucla.edu) 
-
 </div>
 
 ---
