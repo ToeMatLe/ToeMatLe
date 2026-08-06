@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:5DADE2,100:2E86C1&height=230&section=header&text=Thomas%20Le&fontSize=55&fontColor=ffffff&desc=ASIC%20Design%20%C2%B7%20Embedded%20Systems%20%C2%B7%20Computer%20Architecture%20%C2%B7%20Communication%20Systems&descSize=16&descAlignY=85&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:89CFF0,100:1ABC9C&height=220&section=header&text=Thomas%20Le&fontSize=55&fontColor=ffffff&desc=ASIC%20Design%20%C2%B7%20Embedded%20Systems%20%C2%B7%20Computer%20Architecture%20%C2%B7%20Communication%20Systems&descSize=16&descAlignY=60&animation=fadeIn)
 
 <p align="center" style="margin-top: -25px;">
 
@@ -70,8 +70,6 @@ We are now developing a sparse systolic-array multiplier designed to accelerate 
 ---
 
 ## 📫 Connect
-I'm always open to connecting with other students, engineers, and researchers interested in computer architecture, VLSI, FPGA design, embedded systems, or communication systems. Feel free to reach out to talk about projects, research, collaboration opportunities, or anything hardware-related.
-
 I'm currently looking for FPGA / Embedded Systems / ASIC internship opportunities. Feel free to reach out! I'm always interested in talking about cool hardware projects, research, and new ideas.
 
 **LinkedIn:** [linkedin.com/in/thomas-1e](https://www.linkedin.com/in/thomas-1e/)  
