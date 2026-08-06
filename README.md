@@ -41,16 +41,16 @@ Hi I'm a third-year Electrical Engineering student interested in building effici
 
 ## 💻 ASIC/FPGA Projects
 
-### [AI Hardware Accelerator](https://github.com/ToeMatLe/AI_Accelerator)
+#### [AI Hardware Accelerator](https://github.com/ToeMatLe/AI_Accelerator)
 A TPU-inspired hardware accelerator built around a parameterized systolic array for matrix multiplication. The design uses parallel multiply-accumulate processing elements and supports BF16-compatible arithmetic and ReLU activation, allowing it to model key operations used in neural-network inference.
 
-### [Digital Audio Visualizer](https://github.com/ToeMatLe/Digital-Audio-Visualizer)
+#### [Digital Audio Visualizer](https://github.com/ToeMatLe/Digital-Audio-Visualizer)
 An FPGA-based audio visualizer implemented on an Artix-7 device. The system captures real-time audio input, processes the signal using an FFT-based datapath, and displays the resulting frequency information as animated bars through a VGA output.
 
-### [Pipelined RISC-V](https://github.com/ToeMatLe/Pipelined-RISCV)
+#### [Pipelined RISC-V](https://github.com/ToeMatLe/Pipelined-RISCV)
 A five-stage pipelined RV32 processor implemented in SystemVerilog, featuring hazard-detection logic and forwarding paths to resolve data dependencies while minimizing pipeline stalls. The processor includes an L1 data cache that exploits spatial and temporal locality, along with an MSI coherence protocol for consistent cache-line states and future multicore support. When synthesized in Xilinx Vivado for an Artix-7 FPGA, the design achieved a maximum clock frequency of 106 MHz.
 
-### [Reaction Game](https://github.com/ToeMatLe/Reaction_Game)
+#### [Reaction Game](https://github.com/ToeMatLe/Reaction_Game)
 An FPGA-based reaction-time game that measures how quickly a player responds to a visual stimulus. The design uses finite-state machines, counters, button debouncing, and display-control logic to manage the gameplay sequence and report the player's reaction time.
 
 ## ⚙️ Embedded Systems Projects
