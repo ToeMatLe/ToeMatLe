@@ -53,6 +53,8 @@ A five-stage pipelined RV32 processor implemented in SystemVerilog, featuring ha
 #### [Reaction Game](https://github.com/ToeMatLe/Reaction_Game)
 An FPGA-based reaction-time game that measures how quickly a player responds to a visual stimulus. The design uses finite-state machines, counters, button debouncing, and display-control logic to manage the gameplay sequence and report the player's reaction time.
 
+---
+
 ### ⚙️ Embedded Systems Projects
 
 #### [Embedded RF Monitor](https://github.com/ToeMatLe/RF_Monitor)
