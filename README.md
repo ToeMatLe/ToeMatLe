@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:89CFF0,100:1ABC9C&height=150&section=header&text=Thomas%20Le&fontSize=55&fontColor=ffffff&desc=ASIC%20Design%20%C2%B7%20Embedded%20Systems%20%C2%B7%20Computer%20Architecture%20%C2%B7%20Communication%20Systems&descSize=16&descAlignY=60&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:89CFF0,100:1ABC9C&height=225&section=header&text=Thomas%20Le&fontSize=55&fontColor=ffffff&desc=ASIC%20Design%20%C2%B7%20Embedded%20Systems%20%C2%B7%20Computer%20Architecture%20%C2%B7%20Communication%20Systems&descSize=16&descAlignY=65&animation=fadeIn)
 
 <p align="center" style="margin-top: -25px;">
 
