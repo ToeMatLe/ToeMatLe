@@ -75,5 +75,5 @@ I'm currently looking for FPGA / Embedded Systems / ASIC internship opportunitie
 **LinkedIn:** [linkedin.com/in/thomas-1e](https://www.linkedin.com/in/thomas-1e/)  
 **Email:** [tomle12@ucla.edu](mailto:tomle12@ucla.edu)
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:89CFF0,100:5DADE2&height=120&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:89CFF0,100:1ABC9C&height=120&section=footer)
 
