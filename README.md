@@ -1,10 +1,10 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:89CFF0,100:5DADE2&height=200&section=header&text=Hi%20guys,%20I'm%20Thomas%20%F0%9F%91%8B&fontSize=45&fontColor=ffffff&desc=Electrical%20Engineering%20Student%20%40%20UCLA%20%C2%B7%20ASIC%20Design%20%C2%B7%20Embedded%20Systems&descSize=16&descAlignY=75&animation=fadeIn)
-
-# Hi guys, I'm Thomas 👋
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:89CFF0,100:5DADE2&height=200&section=header&text=Thomas%20Le&fontSize=55&fontColor=ffffff&desc=ASIC%20Design%20%C2%B7%20Embedded%20Systems%20%C2%B7%20Computer%20Architecture%20%C2%B7%20Communication%20Systems&descSize=16&descAlignY=75&animation=fadeIn)
 
 **Electrical Engineering Student @ UCLA** · ASIC Design · Embedded Systems · Computer Architecture · Communication Systems
+
+# Hi guys, I'm Thomas 👋
 
 Hi I'm a third-year Electrical Engineering student interested in building efficient digital hardware systems. My projects usually start with a question about how a system should perform, and end with hardware that proves it — designed top-down, pushed to its limits, and benchmarked until the numbers back it up.
 
