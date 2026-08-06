@@ -39,7 +39,7 @@ Hi I'm a third-year Electrical Engineering student interested in building effici
 
 ---
 
-## 🚀 Projects
+## 💻 ASIC/FPGA Projects
 
 ### [AI Hardware Accelerator](https://github.com/ToeMatLe/AI_Accelerator)
 A TPU-inspired hardware accelerator built around a parameterized systolic array for matrix multiplication. The design uses parallel multiply-accumulate processing elements and supports BF16-compatible arithmetic and ReLU activation, allowing it to model key operations used in neural-network inference.
@@ -52,6 +52,11 @@ A five-stage pipelined RV32 processor implemented in SystemVerilog, featuring ha
 
 ### [Reaction Game](https://github.com/ToeMatLe/Reaction_Game)
 An FPGA-based reaction-time game that measures how quickly a player responds to a visual stimulus. The design uses finite-state machines, counters, button debouncing, and display-control logic to manage the gameplay sequence and report the player's reaction time.
+
+## ⚙️ Embedded Systems Projects
+
+### [Embedded RF Monitor](https://github.com/ToeMatLe/RF_Monitor)
+An STM32-based RF monitor that scans the 902–928 MHz ISM band using timer-driven CC1101 control and SPI-based RSSI acquisition. The system streams measurements over UART for real-time host logging and is being extended with on-device RF event classification for standalone edge inference.
 
 ### [Maze Solving Car](https://github.com/ToeMatLe/ECE3-Autonomous-Car)
 Final project for UCLA ECE 3: a fully autonomous line-following robot built using IR sensors, motor encoders, PID control, and a multi-stage state machine. The robot detects checkpoints, executes a 225° turn, accelerates through a timed section, and stops using encoder feedback. After tuning for speed and stability, it completed the course in 5.6 seconds, the fastest time among 196 students.
