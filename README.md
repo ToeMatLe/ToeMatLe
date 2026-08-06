@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:5DADE2,100:2E86C1&height=230&section=header&text=Thomas%20Le&fontSize=55&fontColor=ffffff&desc=ASIC%20Design%20%C2%B7%20Embedded%20Systems%20%C2%B7%20Computer%20Architecture%20%C2%B7%20Communication%20Systems&descSize=16&descAlignY=85&animation=fadeIn)
 
-<p align="center" style="margin-top: -5px;">
+<p align="center" style="margin-top: -25px;">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-1e/) 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tomle12@ucla.edu) 
