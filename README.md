@@ -62,5 +62,5 @@ I'm always open to connecting with other students, engineers, and researchers in
 
 I'm currently looking for FPGA / Embedded Systems / ASIC internship opportunities. Feel free to reach out! I'm always interested in talking about cool hardware projects, research, and new ideas.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-1e/) 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tomle12@ucla.edu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-1e/) [linkedin.com/in/thomas-1e](https://www.linkedin.com/in/thomas-1e/) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tomle12@ucla.edu) [tomle12@ucla.edu](mailto:tomle12@ucla.edu)
