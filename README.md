@@ -58,7 +58,7 @@ An FPGA-based reaction-time game that measures how quickly a player responds to 
 ### ⚙️ Embedded Systems Projects
 
 #### [Embedded RF Monitor](https://github.com/ToeMatLe/RF_Monitor)
-An STM32-based RF monitor that scans the 902–928 MHz ISM band using timer-driven CC1101 control and SPI-based RSSI acquisition. The system streams measurements over UART for real-time host logging and is being extended with on-device RF event classification for standalone edge inference.
+An STM32-based RF monitor that scans the 433.05 – 434.79 MHz ISM band using timer-driven CC1101 control and SPI-based RSSI acquisition. The system streams measurements over UART for real-time host logging and is being extended with on-device RF event classification for standalone edge inference.
 
 #### [Maze Solving Car](https://github.com/ToeMatLe/ECE3-Autonomous-Car)
 Final project for UCLA ECE 3: a fully autonomous line-following robot built using IR sensors, motor encoders, PID control, and a multi-stage state machine. The robot detects checkpoints, executes a 225° turn, accelerates through a timed section, and stops using encoder feedback. After tuning for speed and stability, it completed the course in 5.6 seconds, the fastest time among 196 students.
