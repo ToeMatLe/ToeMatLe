@@ -35,6 +35,10 @@ Hi, I'm a third-year Electrical Engineering student interested in building effic
     <td><strong>Technologies</strong></td>
     <td>Synopsys Verdi/VCS · Xilinx Vivado · STM32 · MATLAB · LTspice · Git · Artix-7 · ESP32</td>
   </tr>
+  <tr>
+    <td><strong>Lab Tools</strong></td>
+    <td>Oscilloscopes · Spectrum Analyzers · Call Boxes · Multimeters</td>
+  </tr>
 </table>
 
 ---
